@@ -1,3 +1,6 @@
+Stanford Machine Learning c229i
+
+
 Course XCS229i in Machine Learning from Stanford University
 
 This course has 2 focuses: on Matemathical derivation of models and Python Implementation of the models. Then, it is applied on data.
